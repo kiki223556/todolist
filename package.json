@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "element-plus": "^2.3.4",
+    "mitt": "^3.0.0",
+    "nanoid": "^4.0.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
